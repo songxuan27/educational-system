@@ -1,1 +1,1 @@
-# educational-system
+微信小程序写的一个教务系统
